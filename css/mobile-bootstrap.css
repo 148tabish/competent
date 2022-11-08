@@ -5837,7 +5837,7 @@ tbody.collapse.in {
   .breadcrumb > li {
     display: inline-block; }
     .breadcrumb > li + li:before {
-      content: "| ";
+      content: "| ";
       padding: 0 5px;
       color: rgba(255, 255, 255, 0.4); }
     .breadcrumb > li .icd-ico {
